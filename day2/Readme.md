@@ -1,4 +1,4 @@
-# Day 1 of 100 days of code 
+# Day 2 of 100 days of code 
 
 ## **Brief Summary about the course**
  This is the first day of the challenge and i have started by taking Instructor Yu Angela's 100 days of code(Python Bootcamp) course on Udemy. Click [here](https://www.udemy.com/course/100-days-of-code) for the course link. The course promises to teach from basics to advanced Python and can be a good refresher for professionals.
