@@ -3,4 +3,4 @@ I have started by taking Instructor Yu Angela's 100 days of code(Python Bootcamp
 
 **I will be uploading daily projects for the 100 days and will be committing them in this repository.**
 
-## Note: You can view and use some of the projects on a deployed web app via this [link]("http://streamlit100days.herokuapp.com/")
+## Note: You can view and use some of the projects on a deployed web app via this [link](http://streamlit100days.herokuapp.com)
