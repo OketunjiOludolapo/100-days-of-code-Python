@@ -8,7 +8,7 @@ Practical application of functions,For loops, while loops and logical thinking. 
 
 
 ## **About this Day 6 Project**
-Today's project was about using loops and functions to cross ever-changing hurdles on [Reeborg website](reeborg.ca)
+Today's project was about using loops and functions to cross ever-changing hurdles on [Reeborg website](reeborg.ca). A video presentation can be found on my [linkedin page](https://www.linkedin.com/posts/oludolapo-oketunji_100daysofcode-dataanalytics-pythonprogramming-activity-6887098178735366144-_eFJ)
 
 
 ### My Contact Details
